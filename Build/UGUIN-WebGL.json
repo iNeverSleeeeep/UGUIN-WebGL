@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "UGUIN",
-"dataUrl": "UGUIN.data.unityweb",
-"wasmCodeUrl": "UGUIN.wasm.code.unityweb",
-"wasmFrameworkUrl": "UGUIN.wasm.framework.unityweb",
+"dataUrl": "UGUIN-WebGL.data.unityweb",
+"wasmCodeUrl": "UGUIN-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "UGUIN-WebGL.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
